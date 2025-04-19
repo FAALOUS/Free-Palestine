@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faalous.github.io/Free-Palestine/sitemap.xml
